@@ -1,0 +1,7 @@
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\bin\Debug\DesignPatterDemos.exe.config
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\bin\Debug\DesignPatterDemos.exe
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\bin\Debug\DesignPatterDemos.pdb
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\obj\Debug\DesignPatterDemos.csprojAssemblyReference.cache
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\obj\Debug\DesignPatterDemos.csproj.CoreCompileInputs.cache
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\obj\Debug\DesignPatterDemos.exe
+F:\AllTechnologies\DesignPatterns\Learn2021\DesignPatterDemos\obj\Debug\DesignPatterDemos.pdb
